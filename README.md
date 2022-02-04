@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Usman Muhammad</h1>
 <h3 align="center">A passionate DL/ML Engineer and a Data Scientist from Pakistan</h3>
 
-- 🔭 I’m currently working on **101FoodVision**
-
-- 🌱 I’m currently learning **CNN with TensorFlow**
-
 - 📫 How to reach me **ozzmanmuhammad@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
