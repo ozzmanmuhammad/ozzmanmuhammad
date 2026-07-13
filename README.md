@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&height=100&lines=CEO+%26+Founder+of+Ainix+Tech;Building+Intelligence+with+Code;Transforming+Ideas+into+Reality;AI+%7C+SaaS+%7C+Full-Stack+%7C+3D" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logoColor=white)](https://ozzmanmuhammad.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logoColor=white)](https://usmanmohammad.com/)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozzmanmuhammad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usman-muhammad-7888b0205)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ozzmanmuhammad)
@@ -21,7 +21,7 @@
 
 I'm a passionate **AI Engineer**, **Full-Stack Developer**, and **Tech Entrepreneur** dedicated to building intelligent systems that solve real-world problems. As the **CEO of Ainix Tech**, I lead a team focused on delivering cutting-edge AI solutions for enterprises. My expertise spans the entire development spectrum—from designing neural networks to crafting seamless user experiences.
 
-- 🏢 **CEO & Founder** at [Ainix Tech](https://www.ainix.tech/) - Building AI-powered enterprise solutions
+- 🏢 **CEO & Founder** at [Ainix Tech](https://www.ainix.co/) - Building AI-powered enterprise solutions
 - 🔭 Currently working on **multiple AI-driven SaaS products** across healthcare, HR, and education at [National Center for Artificial Intelligence](https://www.linkedin.com/company/ncai-pk).
 - 🌱 Exploring **LLMs, Computer Vision, and Advanced Deep Learning**
 - 💡 Passionate about **entrepreneurship**, **open-source contribution**, and **knowledge sharing**
