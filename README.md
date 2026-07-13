@@ -104,7 +104,7 @@ I'm a passionate **AI Engineer**, **Full-Stack Developer**, and **Tech Entrepren
 <table align="center">
 <tr>
 <td width="50%" align="center">
-  <a href="https://www.ainix.tech/">
+  <a href="https://www.ainix.co/">
     <img src="https://api.microlink.io/?url=https://www.ainix.tech/&screenshot=true&meta=false&embed=screenshot.url" alt="Ainix Tech" />
   </a>
   <br />
